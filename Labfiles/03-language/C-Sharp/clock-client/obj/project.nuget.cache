@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "QKrwjforrRyY0onLBgkhdF5Ewji1k0eggvKH+HkJvpOC+71EEDXhnmkhdbt98ui4HTGpJKqVVUxQt6xjifJhqw==",
+  "success": false,
+  "projectFilePath": "c:\\Users\\Student\\Documents\\Gotja\\mslearn-ai-language\\Labfiles\\03-language\\C-Sharp\\clock-client\\clock_client.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.AI.Language.Conversations' from remote source 'https://api.nuget.org/v3-flatcontainer/azure.ai.language.conversations/index.json'.",
+      "libraryId": "Azure.AI.Language.Conversations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.Core' from remote source 'https://api.nuget.org/v3-flatcontainer/azure.core/index.json'.",
+      "libraryId": "Azure.Core"
+    }
+  ]
+}
